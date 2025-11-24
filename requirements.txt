@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+train_test_split: Used for separating the data into training and testing sets.
+
+LogisticRegression: The final, best-performing model algorithm you used.
+
+RandomForestClassifier: The model I ran for comparison.
+
+accuracy_score: Used for the primary performance metric.
+
+confusion_matrix, classification_report: Used for the detailed analysis of Recall and Precision.
