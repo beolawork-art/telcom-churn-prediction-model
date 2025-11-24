@@ -56,5 +56,4 @@ Based on the model's findings, the following actions are recommended:
 2.  **Contract Upgrades:** Target month-to-month customers with high-value offers to incentivize switching to one- or two-year contracts, leveraging the strongest stability factor.
 3.  **Future Work (XGBoost):** To catch the remaining 17% of missed customers, the next phase will involve implementing the advanced **XGBoost** model to increase the Churn Recall beyond 85% further.
 
----
-```
+
